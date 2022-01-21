@@ -17,5 +17,6 @@ var mall  = {
 
 module.exports = {
     deporte: estadio,
-    descanso: playa
+    descanso: playa,
+    mall: mall
 }
